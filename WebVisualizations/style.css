@@ -11,7 +11,7 @@ body{
     margin-left: 30px; 
     padding: inherit; 
     font-weight: bold; 
-    background-color: #809fff;
+    background-color: #29469b;
     font-family: Arial, Helvetica, sans-serif;
 }
 .navbar{
@@ -19,7 +19,7 @@ body{
     font-size: 15px; 
 }
 .active, .dropdown-menu .dropdown-item:active a:hover{
-    background-color:#E7E7E7!important; 
+    background-color:#E7E7E7 !important; 
 }
 .dropdown-item{
     color: #6D8092 !important; 
@@ -100,7 +100,7 @@ padding-top: 15px;
 /* Media Queries */
 @media(max-width: 992px){
 .navbar-expand-lg{
-background-color: #0BADA6 !important;
+background-color:  #29469b !important;
 }
 .navbar{
     max-height: none; 
